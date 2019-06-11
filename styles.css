@@ -1,0 +1,21 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/f0/18/8a/f0188a4680b2ef1ef813b9602b990798.jpg");
+}
+
+img {
+    width: 50%;
+    padding-left: 25%;
+}
+
+p {
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+#page-title {
+    margin-left: 1px;
+}
+
+.headers {
+    color: rgb(40, 40, 40);
+}
